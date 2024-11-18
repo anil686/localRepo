@@ -1,1 +1,1 @@
-# this is my locat file.
+# This is my locat file.
